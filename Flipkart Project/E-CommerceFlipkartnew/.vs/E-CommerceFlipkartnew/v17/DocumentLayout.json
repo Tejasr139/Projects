@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\repository\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:repository\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\repository\\electronicsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:repository\\electronicsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\repository\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:repository\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\repository\\irepositoryelectronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:repository\\irepositoryelectronics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\repository\\irepositorycart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:repository\\irepositorycart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\models\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:models\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\models\\electronic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:models\\electronic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\40041416\\Studying\\OneDrive - LTTS\\E-CommerceFlipkartnew\\Migrations\\20240723091324_CartMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\migrations\\20240724064008_cart2migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:migrations\\20240724064008_cart2migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|c:\\40041416\\selfgit\\self\\new folder\\e-commerceflipkartnew\\migrations\\20240723091702_cartmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE52882A-2361-4F82-B708-3FF537349C57}|E-CommerceFlipkartnew.csproj|solutionrelative:migrations\\20240723091702_cartmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectronicsRepository.cs",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Repository\\ElectronicsRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ElectronicsRepository.cs",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Repository\\ElectronicsRepository.cs",
+              "RelativeToolTip": "Repository\\ElectronicsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:45:35.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryCart.cs",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Repository\\IRepositoryCart.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepositoryCart.cs",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Repository\\IRepositoryCart.cs",
+              "RelativeToolTip": "Repository\\IRepositoryCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:07:56.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Models\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "Models\\CartItemDto.cs",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Models\\CartItemDto.cs",
+              "RelativeToolTip": "Models\\CartItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T10:06:39.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Models\\CartItem.cs",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Models\\CartItem.cs",
+              "RelativeToolTip": "Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:34:07.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Electronic.cs",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Models\\Electronic.cs",
+              "RelativeDocumentMoniker": "Models\\Electronic.cs",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Models\\Electronic.cs",
+              "RelativeToolTip": "Models\\Electronic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:26:40.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositoryElectronics.cs",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Repository\\IRepositoryElectronics.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepositoryElectronics.cs",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Repository\\IRepositoryElectronics.cs",
+              "RelativeToolTip": "Repository\\IRepositoryElectronics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T08:31:54.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartItemRepository.cs",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Repository\\CartItemRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CartItemRepository.cs",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Repository\\CartItemRepository.cs",
+              "RelativeToolTip": "Repository\\CartItemRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:45:59.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T09:56:22.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICartItemRepository.cs",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Repository\\ICartItemRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICartItemRepository.cs",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Repository\\ICartItemRepository.cs",
+              "RelativeToolTip": "Repository\\ICartItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:45:21.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartItemController.cs",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "Controllers\\CartItemController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwDoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:52:37.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240724064008_Cart2Migration.cs",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Migrations\\20240724064008_Cart2Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240724064008_Cart2Migration.cs",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Migrations\\20240724064008_Cart2Migration.cs",
+              "RelativeToolTip": "Migrations\\20240724064008_Cart2Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T06:40:08.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240723091702_CartMigration.cs",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Migrations\\20240723091702_CartMigration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240723091702_CartMigration.cs",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Migrations\\20240723091702_CartMigration.cs",
+              "RelativeToolTip": "Migrations\\20240723091702_CartMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:17:02.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:24:29.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240723091324_CartMigration.cs",
+              "DocumentMoniker": "C:\\40041416\\Studying\\OneDrive - LTTS\\E-CommerceFlipkartnew\\Migrations\\20240723091324_CartMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Studying\\OneDrive - LTTS\\E-CommerceFlipkartnew\\Migrations\\20240723091324_CartMigration.cs",
+              "ToolTip": "C:\\40041416\\Studying\\OneDrive - LTTS\\E-CommerceFlipkartnew\\Migrations\\20240723091324_CartMigration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Studying\\OneDrive - LTTS\\E-CommerceFlipkartnew\\Migrations\\20240723091324_CartMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T09:13:24.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\40041416\\SelfGit\\self\\New folder\\E-CommerceFlipkartnew\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T09:58:48.483Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+/* electronics.css */
+
+/* Center the page title */
+h1 {
+    text-align: center;
+    color: #333;
+    margin-top: 20px;
+}
+
+/* Ensure the container for items is a grid with 4 columns */
+.items-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    padding: 0 20px;
+}
+
+/* Style each item in the grid */
+.items {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 15px;
+    transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.items:hover {
+    background-color: #ffeaea;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.items li {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    color: #333;
+}
+
+.items h2 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.items .price {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.items .description {
+    margin: 10px 0;
+    color: #666;
+}
+
+/* Style buttons to be consistent and attractive */
+button {
+    background-color: rgb(245, 166, 21);
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    font-size: large;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 10px;
+    padding: 10px 20px;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+button:focus {
+    outline: none;
+}
+
+/* Link styling */
+a {
+    text-decoration: none;
+}
+
+a button {
+    background-color: #fb641b;
+}
+
+a button:hover {
+    background-color: #218838;
+}
+
+/* Error messages and loading state */
+p {
+    color: #ff0000;
+    font-size: 18px;
+    text-align: center;
+}
+
+.loading-message {
+    text-align: center;
+    font-size: 18px;
+    color: #007bff;
+}
+
+.cartanddetails{
+    margin-top: 20px;
+}

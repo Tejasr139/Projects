@@ -1,0 +1,6 @@
+@E_CommerceFlipkartnew_HostAddress = http://localhost:5100
+
+GET {{E_CommerceFlipkartnew_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

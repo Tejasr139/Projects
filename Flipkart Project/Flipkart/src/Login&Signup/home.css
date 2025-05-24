@@ -1,0 +1,116 @@
+
+
+.HomeContainer{
+    padding-top: 30px;
+    margin: 25px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+}
+
+
+.grocery {
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    margin-left: 70px;
+    margin-right: 70px;
+    justify-content: space-between;
+  }
+  
+  .grocery img {
+    width: 65px;
+    height: 70px;
+  }
+  
+  .grocery span {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+
+  .mobiles{
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+
+  .fashion {
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .electronics{
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .furniture{
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .appliances{
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .travel{
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .toys{
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .twowheeler{
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    padding: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  
+
+
+
+
+
+ .carouselcontainer{
+    margin: 25px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+  } 
+
+
+
+
+  .ProductsContainer{
+    padding: 20px;
+    margin: 25px;
+    border-radius: 10px;
+    border: 1px solid cadetblue;
+  }
